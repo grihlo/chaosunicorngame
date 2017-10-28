@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChaosUniqorn</string>
+    <string name="ble_not_supported">BLE not supported!</string>
+    <string name="error_bluetooth_not_supported">Error, Bluetooth not supported!</string>
+</resources>
